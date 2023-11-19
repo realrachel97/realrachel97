@@ -1,6 +1,6 @@
 ## Hi there, I am Rachel (Chi Yuan) 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logoWidth=20&width=80)]([https://www.linkedin.com/in/ruichenz/](https://www.linkedin.com/in/chiyuancy/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logoWidth=20&width=80)](https://www.linkedin.com/in/chiyuancy/)
 <!--[![Featured Project](https://img.shields.io/badge/Featured%20Project-orange?style=for-the-badge&logoWidth=40&width=80)](https://forxnews.herokuapp.com/)-->
 
 - 🎓 MCIT '24 @ UPenn
