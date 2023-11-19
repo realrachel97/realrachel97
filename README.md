@@ -5,6 +5,8 @@
 
 - 🎓 MCIT '24 @ UPenn
 - ☕️ SDE Intern @ Amazon (AWS EC2)
+- 🥇 GHC Scholar, 2022, 2023 attendee
+- 🔍 Activity seeking 2024 SDE full-time jobs
 
 
 
