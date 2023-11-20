@@ -4,7 +4,7 @@
 <!--[![Featured Project](https://img.shields.io/badge/Featured%20Project-orange?style=for-the-badge&logoWidth=40&width=80)](https://forxnews.herokuapp.com/)-->
 
 - 🎓 MCIT '24 @ UPenn
-- ☕️ Ex-SDE Intern @ <img src="http://img.shields.io/badge/-AWS-F89820?style=flat&logo=amazon&logoColor=white"> 
+- ☕️  <img src="http://img.shields.io/badge/-AWS-F89820?style=flat&logo=amazon&logoColor=white"> Ex-SDE Intern
 - 🥇 GHC Scholar, 2022, 2023 attendee
 - 🔍 Activity seeking 2024 SDE full-time jobs
 
